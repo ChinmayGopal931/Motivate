@@ -83,8 +83,7 @@ function Header(props){
                             size="lg"
                             borderRadius="full"
                             ml={3}
-                            mr={-2}
-                        >
+                            mr={-2} >
                             <TagLabel>
                                 {`${props.currentAccount.substr(0,6)}...${props.currentAccount.substr(-4)}`}
                             </TagLabel>
