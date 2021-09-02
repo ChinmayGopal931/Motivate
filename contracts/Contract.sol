@@ -4,8 +4,8 @@ pragma solidity 0.8.4;
 contract DoIt {
     struct Promise {
         uint256 promiseId;
-        uint256 promiseId2;
-        string promiseTask;
+        uint256 promiseId22;
+        string promiseTaske23232;
         uint256 promiseAmount;
         address payable creator;
         address payable friend;
