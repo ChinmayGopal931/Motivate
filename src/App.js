@@ -35,8 +35,6 @@ function App() {
   }
   const [isHome, setIsHome] = useState(true);
 
-  
-
   return (
     <React.Fragment>
       <Stack justify="center" spacing={20} height="100%">
